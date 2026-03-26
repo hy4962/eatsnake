@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\\C#\\test\\eatsnake\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\eatsnake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5C253F1-6846-40EA-93B3-2EFAF2E70228}|eatsnake\\eatsnake.csproj|D:\\C\\C#\\test\\eatsnake\\eatsnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D5C253F1-6846-40EA-93B3-2EFAF2E70228}|eatsnake\\eatsnake.csproj|c:\\users\\administrator\\desktop\\eatsnake\\eatsnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D5C253F1-6846-40EA-93B3-2EFAF2E70228}|eatsnake\\eatsnake.csproj|solutionrelative:eatsnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5C253F1-6846-40EA-93B3-2EFAF2E70228}|eatsnake\\eatsnake.csproj|d:\\c\\c#\\test\\eatsnake\\eatsnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C253F1-6846-40EA-93B3-2EFAF2E70228}|eatsnake\\eatsnake.csproj|solutionrelative:eatsnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,26 +72,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\C\\C#\\test\\eatsnake\\eatsnake\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\eatsnake\\eatsnake\\Form1.cs",
               "RelativeDocumentMoniker": "eatsnake\\Form1.cs",
-              "ToolTip": "D:\\C\\C#\\test\\eatsnake\\eatsnake\\Form1.cs [\u8BBE\u8BA1]*",
-              "RelativeToolTip": "eatsnake\\Form1.cs [\u8BBE\u8BA1]*",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\eatsnake\\eatsnake\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "eatsnake\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:31:21.129Z",
+              "WhenOpened": "2026-03-26T12:05:18.24Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\C\\C#\\test\\eatsnake\\eatsnake\\Form1.cs",
-              "RelativeDocumentMoniker": "eatsnake\\Form1.cs",
-              "ToolTip": "D:\\C\\C#\\test\\eatsnake\\eatsnake\\Form1.cs*",
-              "RelativeToolTip": "eatsnake\\Form1.cs*",
-              "ViewState": "AgIAABoBAAAAAAAAAAAAAOUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:46:14.799Z",
-              "EditorCaption": ""
             }
           ]
         }

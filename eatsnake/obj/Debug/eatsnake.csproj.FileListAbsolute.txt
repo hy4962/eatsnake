@@ -8,3 +8,13 @@ D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.csproj.GenerateResource.cache
 D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.csproj.CoreCompileInputs.cache
 D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.exe
 D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.pdb
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\bin\Debug\eatsnake.exe.config
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\bin\Debug\eatsnake.exe
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\bin\Debug\eatsnake.pdb
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\obj\Debug\eatsnake.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\obj\Debug\eatsnake.Form1.resources
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\obj\Debug\eatsnake.Properties.Resources.resources
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\obj\Debug\eatsnake.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\obj\Debug\eatsnake.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\obj\Debug\eatsnake.exe
+C:\Users\Administrator\Desktop\eatsnake\eatsnake\obj\Debug\eatsnake.pdb
