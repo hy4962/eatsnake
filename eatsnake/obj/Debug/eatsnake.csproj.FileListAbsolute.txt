@@ -1,0 +1,10 @@
+D:\C\C#\test\eatsnake\eatsnake\bin\Debug\eatsnake.exe.config
+D:\C\C#\test\eatsnake\eatsnake\bin\Debug\eatsnake.exe
+D:\C\C#\test\eatsnake\eatsnake\bin\Debug\eatsnake.pdb
+D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.csproj.AssemblyReference.cache
+D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.Form1.resources
+D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.Properties.Resources.resources
+D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.csproj.GenerateResource.cache
+D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.csproj.CoreCompileInputs.cache
+D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.exe
+D:\C\C#\test\eatsnake\eatsnake\obj\Debug\eatsnake.pdb
