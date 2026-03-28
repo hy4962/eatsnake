@@ -58,6 +58,7 @@ namespace eatsnake
         int fwidth = 30;//每个格子的宽度
         int fheight = 30;//每个格子的高度
         Color bc = Color.Black;//背景颜色
+        int num = 0;//分数
         #endregion
 
 
@@ -226,6 +227,9 @@ namespace eatsnake
             if (head == food)
             {
                 isfood = false;//设置没有食物了
+
+                lb_num.Text = (10*(++num)).ToString();//分数增加，并更新分数标签
+
                 return true;
             }
             return false;

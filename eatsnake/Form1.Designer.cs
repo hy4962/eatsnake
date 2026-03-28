@@ -40,6 +40,7 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.lbl_fraction = new System.Windows.Forms.Label();
+            this.lb_num = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -132,11 +133,21 @@
             this.lbl_fraction.TabIndex = 0;
             this.lbl_fraction.Text = "得分：";
             // 
+            // lb_num
+            // 
+            this.lb_num.AutoSize = true;
+            this.lb_num.Location = new System.Drawing.Point(364, 43);
+            this.lb_num.Name = "lb_num";
+            this.lb_num.Size = new System.Drawing.Size(17, 18);
+            this.lb_num.TabIndex = 3;
+            this.lb_num.Text = "0";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1091, 647);
+            this.Controls.Add(this.lb_num);
             this.Controls.Add(this.lbl_fraction);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1);
@@ -167,6 +178,7 @@
         private System.Windows.Forms.Timer timer2;
         private System.Windows.Forms.ToolStripMenuItem 设置ToolStripMenuItem;
         private System.Windows.Forms.Label lbl_fraction;
+        private System.Windows.Forms.Label lb_num;
     }
 }
 
